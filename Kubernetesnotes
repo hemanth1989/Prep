@@ -1,5 +1,7 @@
 This is first line
 
+This is second line
+
 Kubernetes install ---Ubuntu(16.04 LTS)
 apt-get upgrade
 apt-get update
